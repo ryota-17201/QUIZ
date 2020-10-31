@@ -4,12 +4,14 @@
 
 Several python liblaries
 ```
-$ pip install gTTS
+pip install gTTS
 ```
 
 ## Sample
 ```
-$ git clone https://github.com/ryota-17201/QUIZ.git
+git clone https://github.com/ryota-17201/QUIZ.git
+cd QUIZ
+python3 quiz_mp3.py
 ```
 
 ## csvファイル
