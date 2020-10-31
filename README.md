@@ -2,12 +2,12 @@
 
 クイズの問題文と解答からなるcsvファイルを、mp3にすることができます
 
-Several python liblaries
+## pythonライブラリ
 ```
 pip install gTTS
 ```
 
-## Sample
+## 実行
 ```
 cd QUIZ
 python3 quiz_mp3.py
