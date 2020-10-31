@@ -9,7 +9,7 @@ $ pip install gTTS
 
 ## Sample
 ```
-$ git clone 
+$ git clone https://github.com/ryota-17201/QUIZ.git
 ```
 
 ## csvファイル
